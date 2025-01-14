@@ -1,4 +1,4 @@
-Notes on https://mathshistory.st-andrews.ac.uk/HistTopics/History_overview/
+Notes on https://mathshistory.st-andrews.ac.uk/HistTopics/History_overview/ (written in 1997)
 
 ## Major Developments
 2000 BC: Mathematics develops in Babylonia
@@ -11,7 +11,7 @@ Notes on https://mathshistory.st-andrews.ac.uk/HistTopics/History_overview/
 1800 AD: Rapid progress. Fourier worked on heat, Riemann characterized geometry, Gauss (goat?) revolutionized differential geometry and contributed to astronomy and magnetism, Cauchy built on Langrage's work and studied functions of a complex variable,  Caley/Hamilton/Grassman worked on linear algebra, Cantor invented set theory.
 
 
-
+Napier invented the basic concept of a calculator at the same time as logarithms. Once the pocket calculator was invented, logarithms (log tables) were no longer used for calculation. What will replace the calculator? What is something as different from the calculator as the calculator is from log tables?
 
 
 
