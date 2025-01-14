@@ -1,7 +1,10 @@
 Notes on https://mathshistory.st-andrews.ac.uk/HistTopics/History_overview/
 
-## Timeline
+## Major Developments
 2000 BC: Mathematics develops in Babylonia
 1700 BC: Pythagorean triples (a, b, c ; a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>), systems of linear equations, quadratic equations, geometry (area, volume, π)
+300 BC - 200 AD: Major Greek progress, followed by progress in Iran, Syria, India (which preserved Greek progress)
+1000 AD: Adelard of Bath and then Fibonacci brought Islamic math progress to Europe
+1500 AD: Major European progress with Pacioli, then Cardan, then Tartaglia/Ferrari (algebraic solution of cubic/quartic equations). Copernicus, Galileo revolutionized application of math to study universe
 
 
