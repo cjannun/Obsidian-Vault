@@ -8,3 +8,4 @@ Notes on https://mathshistory.st-andrews.ac.uk/HistTopics/History_overview/
 1500 AD: Major European progress with Pacioli, then Cardan, then Tartaglia/Ferrari (algebraic solution of cubic/quartic equations). Copernicus, Galileo revolutionized application of math to study universe
 
 
+
