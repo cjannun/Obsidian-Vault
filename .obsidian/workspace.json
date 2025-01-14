@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other note.md",
+                "file": "History of Math/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Other note"
+              "title": "Untitled"
             }
           }
         ],
@@ -206,10 +206,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03db04af36a657b0",
+  "active": "6223a33a336ccc98",
   "lastOpenFiles": [
-    "Machine Learning/API for building Neural Network models.md",
     "Other note.md",
+    "History of Math/Untitled.md",
+    "History of Math",
+    "Machine Learning/API for building Neural Network models.md",
     "Machine Learning/Python Packages.md",
     "Machine Learning/Methods for Feature Engineering.md",
     "Untitled.canvas",
