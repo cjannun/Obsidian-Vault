@@ -20,14 +20,35 @@ OR you can think about it as diving by 2^-1
 
 
 x = (bar 0.1011)<sub>2</sub>
-
 2^4 * x = 1011.1011 bar
-
-(2^4 - 1)x = (1011)<sub>2</sub>
+(2^4 - 1) * x = (1011)<sub>2</sub>
 7x = 2^3 + 0 * 2^2 + 1  * 2^1 + 1 * 2^0 
+x = 11/7
 
 
 x = .10101 bar3
+2^2 * x = 10.101 bar3
+y = 2^2 * x = 10.101 bar3 = 10 + 0.101 bar3
+					 = 10 + z
+lets calculate z
+2<sup>z</sup> * z = 101.101 bar3 
+z = .101 bar3
+(2<sup>z</sup> - 1)z = (101)<sub>2</sub> = 2<sup>2</sup> + 2<sup>0</sup>
+7z = 5
+z = 5/7
+
+4x = y = 19/7
+
+x = 19/28
+
+
+## Hexadecimal Numbers
+
+( )<sub>16</sub>
+
+0,1,2,3,...,9,A,B,C,D,E,F
+
+
 
 
 
