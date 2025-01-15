@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Methods for Feature Engineering.md",
+                "file": "History of Math/Overview of Mathematics History.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Methods for Feature Engineering"
+              "title": "Overview of Mathematics History"
             }
           }
         ]
@@ -165,11 +165,11 @@
   },
   "active": "310774378585b438",
   "lastOpenFiles": [
-    "Machine Learning/API for building Neural Network models.md",
-    "Machine Learning/Python Packages.md",
     "Machine Learning/Methods for Feature Engineering.md",
+    "Machine Learning/API for building Neural Network models.md",
     "History of Math/Overview of Mathematics History.md",
     "Other note.md",
+    "Machine Learning/Python Packages.md",
     "History of Math",
     "Untitled.canvas",
     "Obsidian",

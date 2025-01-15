@@ -1,2 +1,0 @@
-test obsidian sync
-

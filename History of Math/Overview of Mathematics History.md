@@ -13,6 +13,8 @@ Notes on https://mathshistory.st-andrews.ac.uk/HistTopics/History_overview/ (wri
 
 Napier invented the basic concept of a calculator at the same time as logarithms. Once the pocket calculator was invented, logarithms (log tables) were no longer used for calculation. What will replace the calculator? What is something as different from the calculator as the calculator is from log tables?
 
+Thoughts: Article was written in 1997, so author was likely thinking of some application of AI/ML, like NLP or similar. Maybe the next thing, after AI, is Quantum Computing... I would like to learn more about Quantum Computing.
+
 
 
 
