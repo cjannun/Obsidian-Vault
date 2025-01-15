@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Overview of Mathematics History"
             }
+          },
+          {
+            "id": "bcfe71d2f3d00c14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numerical Analysis/Binary Numbers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binary Numbers"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,11 +178,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "310774378585b438",
+  "active": "bcfe71d2f3d00c14",
   "lastOpenFiles": [
+    "Numerical Analysis",
+    "History of Math/Overview of Mathematics History.md",
+    "Numerical Analysis/Binary Numbers.md",
     "Machine Learning/Methods for Feature Engineering.md",
     "Machine Learning/API for building Neural Network models.md",
-    "History of Math/Overview of Mathematics History.md",
     "Other note.md",
     "Machine Learning/Python Packages.md",
     "History of Math",
