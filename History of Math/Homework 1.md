@@ -1,0 +1,9 @@
+
+
+#1 
+$$ \frac{2}{mn} = \frac{1}{m(\frac{m+n}{2})} + \frac{1}{n(\frac{m+n}{2})} $$
+Multiply both sides by mn
+$$ 2 = \frac{n}{\frac{m+n}{2}} + \frac{m}{\frac{m+n}{2}} $$
+Multiply both sides by (m+n)/2
+$$ m+n = n+m $$
+Therefore, the equality is true.
